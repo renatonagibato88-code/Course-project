@@ -1,0 +1,6 @@
+*.exe
+*.o
+*.obj
+.vs/
+*.drawio.bkp
+*.т.п.
